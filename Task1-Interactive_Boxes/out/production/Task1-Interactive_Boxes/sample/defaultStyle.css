@@ -1,0 +1,36 @@
+.root {
+    -fx-font-size: 11pt;
+    -fx-background-color: white;
+}
+.button {
+    -fx-background-color: white;
+    -fx-background-insets: 0,1,2;
+    -fx-text-fill: black;
+    -fx-text-align: center;
+    -fx-border-color: black;
+    -fx-border-width: 1pt;
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+    -fx-padding: 3 10 3 10;
+    -fx-font-family: "Helvetica";
+    -fx-font-size: 15px;
+}
+.text-field {
+    -fx-background-color: transparent;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+#gridClass {
+    -fx-background-color: #b0feaa;
+}
+#gridRecord {
+    -fx-background-color: #fefccd;
+}
+#gridEntryTop {
+    -fx-background-color: #fefccd;
+}
+#gridEntryMid {
+    -fx-background-color: #cce6ff;
+}
+#gridEntryBot {
+    -fx-background-color: #fefccd;
+}
